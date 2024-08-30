@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SideBar</title>
+</head>
+<body>
+
+    <div>
+        <h2>Project 1 - Resume</h2>
+        <a href="https://aakashr11111001111.github.io/HTML-Classwork-1/" target="content">
+            <img width="100%" src="./public/1. resume.png" alt="Resume">
+        </a>
+    </div>
+    <div>
+        <h2>Project 2 - Cat Photo App</h2>
+        <a href="https://aakashr11111001111.github.io/HTML-Classwork-2/" target="content">
+            <img width="100%" src="./public/2. Cat Photo App.png" alt="Cat Photo A">
+        </a>
+    </div>
+    <div>
+        <h2>Project 3 - Form</h2>
+        <a href="https://aakashr11111001111.github.io/HTML-Classwork---3/" target="content">
+            <img width="100%" src="./public/3. Form.png" alt="">
+        </a>
+    </div>
+    <div>
+        <h2>Project 4 - Tribute page</h2>
+        <a href="https://aakashr11111001111.github.io/HTML-Classwork-4/" target="content">
+            <img width="100%" src="./public/4. tribute page.png" alt="">
+        </a>
+    </div>
+</body>
+</html>
